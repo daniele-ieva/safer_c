@@ -1,0 +1,9 @@
+build/
+obj/
+.cache/
+.idea/
+.vscode/
+*.make
+Makefile
+compile_commands.json
+
